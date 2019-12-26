@@ -27,6 +27,22 @@ Sample test cases
 ```diff
 + Solution: Code can be found in ErrorFinderApplication.zip, written in java.
 ```
+## Design a Ride Matching application 
+
+Find all the eligible drivers for a rider cosidering below conditions. 
+
+1. The average rating of the driver should be greater than the customer average rating.
+
+2. If the customer had given the driver a 1 star rating earlier then this driver is not to be considered vice versa.
+  (In average rating calculation this driver's rides are not cosidered for a rider.)
+
+3. If there are no drivers found, print the ones for which the customer had rode earlier.
+
+- Bonus: Show online drivers at any time. 
+
+```diff
++ Solution: Code can be found in DriverAndRiderApplication.zip, written in java.
+```
 
 ## Implement a Text Line Editor which supports the following operations:
 
