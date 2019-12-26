@@ -24,3 +24,12 @@ Input: (A B)(B C)(C A) Output: E3
 Input: (A B)(C D) Output: E4
 Input: (A B)(B C)(A C) Output: E5
 
+
+# Implement a Text Line Editor which supports the following operations:
+
+insert a line at a given line number
+delete the specific set of lines
+Copy specific set of lines
+Paste the copied lines at given index
+Print the entire content
+
