@@ -24,7 +24,10 @@ Sample test cases
 - Input: (A B)(C D) Output: E4
 - Input: (A B)(B C)(A C) Output: E5
 
-###### Solution: Code can be found in ErrorFinderApplication.zip, written in java.
+```diff
++ ###### Solution: Code can be found in ErrorFinderApplication.zip, written in java.
+```
+
 ## Implement a Text Line Editor which supports the following operations:
 
 - insert a line at a given line number
