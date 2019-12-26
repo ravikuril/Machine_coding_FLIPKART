@@ -25,7 +25,7 @@ Sample test cases
 - Input: (A B)(B C)(A C) Output: E5
 
 ```diff
-+ ###### Solution: Code can be found in ErrorFinderApplication.zip, written in java.
++ Solution: Code can be found in ErrorFinderApplication.zip, written in java.
 ```
 
 ## Implement a Text Line Editor which supports the following operations:
