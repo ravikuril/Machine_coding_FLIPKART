@@ -66,3 +66,8 @@ Find all the eligible drivers for a rider cosidering below conditions.
 - Copy specific set of lines
 - Paste the copied lines at given index
 - Print the entire content
+
+`Bonus`
+
+1. Undo command
+2 .Redo command
