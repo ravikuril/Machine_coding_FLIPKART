@@ -139,12 +139,14 @@ Other Details:
 - report(“Spanish Flu”, P10, “USA”, “California”, “San-francisco”)
 
 
-- ShowWorldSummary() => 
+
+ShowWorldSummary() => 
 Overall:
 Total : 10
 Cured : 0
 Fatality : 0
 Active : 10
+
 
 
 
@@ -159,6 +161,7 @@ Total : 2
 Cured : 0
 Fatality : 0
 Active : 2
+
 
 
 
@@ -225,6 +228,11 @@ If a patient has 2 diseases, COVID and Spanish flu and he/she dies because of CO
 ⇒ so here if the death reason is COVID19, fatality should be counted only for covid19 , not for Spanish flu, but total active cases will be reduced for both disease
 
 
+```diff
++ Solution: Code can be found in pandemictracker.zip, written in java.
+```
+
+GOD SPEED....
 
 ![Alt Text](https://github.com/ravikuril/Machine_coding_FLIPKART/blob/master/gif/space.gif)
 
